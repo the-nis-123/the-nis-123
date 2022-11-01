@@ -1,4 +1,6 @@
-Hi there :wave: I'm Denis, thanks for stopping by!
+Hi there :wave: I'm Denis, thanks for stopping by!<br>
+Kintu Denis, 3 years of experience developing and debugging responsive web applications. 
+I have worked with a software startup and later with a hotel as a contract freelancer where I transformed wireframes into stateful data-intensive yet performant user interfaces using react, wrote programs to consume restful API with react-query ensuring security and performance while maintaining code re-usability. Quick and continuous learning has exposed me to more industry technologies including Nodejs, express and mongodb . Reliability and effective communication has been a key driver for my productivity
 
 <img align='left' width='45%' height='200px' src="https://github-readme-stats.vercel.app/api?username=the-nis-123&show_icons=true&theme=radical" />
 <img align='left' width='45%' height='200px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-nis-123&langs_count=5&layout=compact)](https://github.com/the-nis-123/github-readme-stats" />
@@ -9,6 +11,8 @@ Hi there :wave: I'm Denis, thanks for stopping by!
 [![GitHub followers](https://img.shields.io/github/followers/the-nis-123.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 
+***
+### :sparkling_heart: Most interested in:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -31,5 +35,5 @@ Hi there :wave: I'm Denis, thanks for stopping by!
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-### My Journey so far
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=the-nis-123&row=1)](https://github.com/the-nis-123/github-profile-trophy)
+### My Journey on GITHUB so far:
+[![trophy](https://github-profile-trophy.vercel.app/?username=the-nis-123&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
