@@ -36,4 +36,4 @@ I have worked with a software startup and later with a hotel as a contract freel
 
 
 ### My Journey on GITHUB so far:
-[![trophy](https://github-profile-trophy.vercel.app/?username=the-nis-123&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=the-nis-123&theme=onedark&row=1)](https://github.com/the-nis-123/github-profile-trophy)
