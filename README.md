@@ -69,6 +69,8 @@ A frontend developer from Kampala Uganda. Passionate about this, I am endlessly 
 
 </td></tr></table>  
 
+<br>
+<br>
 
 ## Most Recent Activity
 <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=the-nis-123&show_icons=true&theme=gotham&hide_border=true" />
