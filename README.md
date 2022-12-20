@@ -10,8 +10,7 @@
 A frontend developer from Kampala Uganda. Passionate about this, I am endlessly building and breaking staff right here at my profile as my way to keep up with the ever-changing industry and technologies while developing professionally.  Check out below what I am tinckering with right now and please consider joining me to creeate those two templates for the world
 
 
-- I’m currently working on [Misitirious Store](https://the-nis-123.github.io/misitirious/) and [Misitirious blog](https://the-nis-123.github.io/misitirious-blog/) both of which i intend to transform into react templates for online store and blog respectively to help anyone quickly bootstrap a project for their business. Please come join me we do this together.  
-  
+- I’m currently working on [OTCUST](https://spontaneous-hummingbird-039b34.netlify.app/), a content management system where one is capable of publishing blogs or articles, upload podcasts and videos or even sell digital products through the digital store features [check it out here](https://spontaneous-hummingbird-039b34.netlify.app/)
 
 - I’m currently learning Python and its related libraries relevant to we development  
   
