@@ -7,13 +7,8 @@
   
 # Hi There 👋 thanks for Stopping By! 
 ### I'm Kintu Denis <br>
-A frontend developer from Kampala Uganda. Passionate about this, I am endlessly building and breaking staff right here as my way to keep up with the ever-changing industry and technologies while developing professionally.  Check out below what I am messing around with currently.
+A software engineer from Kampala Uganda. Passionate about this, I am endlessly building and breaking staff as my way to keep up with the ever-changing industry and technologies while developing professionally.  Check out below what I am messing around with currently.
 
-
-- I’m currently working on [OTCUST](https://spontaneous-hummingbird-039b34.netlify.app/), a content management system where one is capable of publishing blogs or articles, upload podcasts and videos or even sell digital products through the digital store features [check it out here](https://spontaneous-hummingbird-039b34.netlify.app/)
-
-- I’m currently learning Python and its related libraries relevant to we development  
-  
 
 ### Let's chat  
 - ❓ Ask me about anything related to MERN stack and related technologies  
