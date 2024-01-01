@@ -66,12 +66,6 @@ A software engineer from Kampala Uganda. Passionate about this, I am endlessly b
 <br>
 <br>
 
-## Most Recent Activity
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=the-nis-123&show_icons=true&theme=gotham&hide_border=true" />
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-nis-123&langs_count=5&layout=compact&hide_border=true&theme=gotham" /><br>
-
-
-
 <img src="https://github-profile-trophy.vercel.app/?username=the-nis-123&row=1&theme=gruvbox&no-frame=true" />
 <br>
 
