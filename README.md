@@ -4,26 +4,6 @@
 <div align="center">
 <img src="https://images.pexels.com/photos/2653362/pexels-photo-2653362.jpeg?auto=compress&cs=tinysrgb&w=600" align="center" height="280px" width="100%" />
 </div>  
-  
-# Hi There 👋 thanks for Stopping By! 
-### I'm Kintu Denis <br>
-A software engineer from Kampala Uganda. Passionate about this, I am endlessly building and breaking staff as my way to keep up with the ever-changing industry and technologies while developing professionally.  Check out below what I am messing around with currently.
-
-
-### Let's chat  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-### Strange but true  
-- ⚡ Fun fact: I taught myself how to write software starting with C++ which laid for me a foundation to later understand constructs and sytaxes of programming languages I picked up later on (Javascript and Python)  
-  
-
-<br/>  
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
